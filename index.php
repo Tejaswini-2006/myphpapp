@@ -1,6 +1,6 @@
 <?php
 // Restaurant website - index.php (single file, no database)
-$restaurant = "Spice Garden";
+$restaurant = "RajNandini Restaurant";
 
 $menu = [
     "Starters" => [
