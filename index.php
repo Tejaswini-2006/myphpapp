@@ -53,6 +53,7 @@ if ($_SERVER["REQUEST_METHOD"] === "POST") {
 
 <header>
     <h1><?= $restaurant ?></h1>
+    <h2> By Tejaswini Rakhunde</h2>
     <p>Fresh food, served with love</p>
 </header>
 
